@@ -1,4 +1,4 @@
-package E_ControlStatements;
+package E_ControlStatements.Conditionals;
 
 import java.util.Scanner;
 
