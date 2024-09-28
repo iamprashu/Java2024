@@ -1,4 +1,4 @@
-package OOPS.OVERLOADING_OVERRIDING;
+package OOPS.Polymorphism.OVERLOADING_OVERRIDING;
 
 
 //Java Program to demonstrate the real scenario of Java Method Overriding

@@ -1,4 +1,4 @@
-package OOPS.OVERLOADING_OVERRIDING;
+package OOPS.Polymorphism.OVERLOADING_OVERRIDING;
 
 class Shank{
     void getAmount(int number1,int number2){
